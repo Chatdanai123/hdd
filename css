@@ -1,0 +1,93 @@
+
+/*  styles */
+
+    form {
+      
+        justify-content: center;
+        align-items: center;
+    }
+
+    .a2{
+        text-align: center;
+        margin-top: 0px; /* ใส่หน่วย px ให้ชัดเจน */
+    }
+    *{
+        margin:0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .head{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px; /* ใส่หน่วย px ให้ชัดเจน */
+       
+    }
+    .a3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px; /* ใส่หน่วย px ให้ชัดเจน */
+    }
+    .a4{
+        line-height: 1.8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px; /* ใส่หน่วย px ให้ชัดเจน */
+    }
+    .a5{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px; /* ใส่หน่วย px ให้ชัดเจน */
+    }
+    .a6{
+        line-height: 1.8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px; /* ใส่หน่วย px ให้ชัดเจน */
+    }
+    .a7{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px; /* ใส่หน่วย px ให้ชัดเจน */}
+    .b{
+        font-weight: bold;
+    }
+    .b1{
+        font-weight: bold;
+    }
+    .b2{
+        font-weight: bold;
+    }
+    .b3{
+        font-weight: bold;
+    }
+    .b3{
+        font-weight: bold;
+    }
+    .b4{
+        font-weight: bold;
+    }
+    .b5{
+        font-weight: bold;
+    }
+    .a8{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px; /* ใส่หน่วย px ให้ชัดเจน */}
+        .photo-table img{
+            position: absolute;
+            top: 40px;
+            right: 400px;
+            border: 1px solid black;
+            width: 120px; /* Adjust size as needed */
+            height: 120px;}
+            .a10{
+                padding-left: 460px;
+            }
